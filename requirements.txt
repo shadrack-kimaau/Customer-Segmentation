@@ -1,6 +1,27 @@
+# Database
+sqlalchemy
+psycopg[binary]
+
+# API & Engineering
 fastapi
 uvicorn
+pydantic
+python-dotenv
+httpx
+
+# Core Data Science
+numpy
 pandas
+scipy
+openpyxl
+
+# Machine Learning
 scikit-learn
-sqlalchemy
-psycopg2-binary
+xgboost
+lightgbm
+joblib
+
+# Visualization
+matplotlib
+seaborn
+plotly
